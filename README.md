@@ -4,4 +4,4 @@
 
 -XMLFiles contains the xml files that were used.
 
--TestApplication.zip has all of the files that are neccessary for it to run.
+-TestApplication.zip has all of the java and xml files. It also contains other files that are neccesary for the program to run.
