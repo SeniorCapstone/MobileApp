@@ -8,6 +8,8 @@
 
 -This app is in its very early stages. We will have to make a lot of changes in the code for our project.
 
--All of the changes we make in a file can be uploaded to one of the associated folders.
+-All of the changes we make in a file can be uploaded to one of the folders.
 
--Any new files we make could also be uploaded to the associated folder. Just so we are more organized.
+-Any new files we make could also be uploaded to the associated folder.
+
+-These folders should help us be more organized lol.
