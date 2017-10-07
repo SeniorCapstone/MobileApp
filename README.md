@@ -6,10 +6,6 @@
 
 -TestApplication.zip has all of the java and xml files. It also contains other files that are neccesary for the program to run.
 
--This app is in its very early stages. We will have to make a lot of changes in the code for our project.
+-This app file is the same exact one that I had on my phone.
 
--All of the changes we make in a file can be uploaded to one of the folders.
-
--Any new files we make could also be uploaded to the associated folder.
-
--These folders should help us be more organized lol.
+-We could probably upload any changes we make to one of the folders.
