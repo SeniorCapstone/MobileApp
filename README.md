@@ -9,3 +9,5 @@
 -This app file is the same exact one that I had on my phone.
 
 -We could probably upload any changes we make to one of the folders.
+
+- Version 2 can search for nearby food pantries. The UI is the same.
